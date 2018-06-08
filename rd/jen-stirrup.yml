@@ -2,19 +2,36 @@
 uid: rd.jen-stirrup
 name: Jen Stirrup
 metadata:
-  title: Jen Stirrup - Microsoft Regional Director, [add professional title]
+  title: Jen Stirrup - Microsoft Regional Director, Data Whisperer
   description: Microsoft Regional Director
 remarks: |
   ## Bio
   [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+  Jen is a data strategist and consults as The Data Whisperer, leading organizations to data-driven insights using Microsoft and 
+  Tableau technologies. Jen is a Microsoft Most Valuable Most Valuable Professional (MVP), SQLFamily and diversity and inclusion 
+  community advocate, public speaker and blogger, and event organizer. Jen is passionate about all things data, 
+  helping leaders derive value from data.
+  Jen has two decades of experience in the industry, successfully delivering business intelligence, artificial intelligence and 
+  data visualization projects worldwide. Jen is the founder of a successful boutique consultancy, Data Relish, which envisions, 
+  leads and delivers great business intelligence, analytics and machine learning solutions to customers with a passion. 
+  Jen leads well-known organizations to the cloud as part of this strategy, such as the NHS and Government bodies in London, UK.
+  Jen served as a Non Executive Director on the PASS Board for four years, spearheading global initiatives in creating and 
+  delivering a strategy for community-focused technical education in Microsoft Data Platform solutions, focusing on
+  Business Analytics and the Developer audience. Jen has also served a subject matter expert for the BBC, 
+  featuring as an expert in analytics and data for a current affairs programme.
+  In the technical community, Jen has spoken at events in Africa, Asia, Europe and the United States. Jen is a TechEd North America alumni
+  speaker, TechEd Europe, PASS Summit, Techdays Online and SQLBits, along with SQLSaturday events throughout Europe. Jen has also
+  spoken at numerous events such as the Tableau Conference, Live 360, IT/Dev Connections and AI Live. Jen has also shown leadership
+  in the diversity arena by organizing Women in Technology events at SQLSaturday events, and PASS Nordics. She currently leads the 
+  Women in Power BI volunteer efforts to be inclusive towards women in technology through the Power BI technology.
+tagline: Business Intelligence / Analytics / Artificial Intelligence
 image:
   alt: "Jen Stirrup"
   src: media/profiles/jen-stirrup.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
+facebook: https://www.facebook.com/TheDataWhisperer/
+twitter: https://twitter.com/jenstirrup
 linkedin: https://linkedin.com/in/yourprofile
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: London, [State, if applicable], UK
+  lat: 51.509865
+  long: -0.118092
